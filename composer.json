@@ -16,7 +16,7 @@
 		"illuminate/config": "~5.0",
         "doctrine/dbal": "2.5.1",
         "elasticsearch/elasticsearch": "~1.0",
-        "nikic/php-parser": "*"
+        "nikic/php-parser": "1.4.1"
     },
     "autoload": {
         "psr-0": {
